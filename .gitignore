@@ -1,0 +1,9 @@
+# 実行環境固有の情報をリポジトリに含めない
+検証結果.json
+*.dump
+*.sql
+*.log
+.env
+.env.*
+__pycache__/
+*.pyc
